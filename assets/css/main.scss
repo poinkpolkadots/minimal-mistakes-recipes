@@ -7,3 +7,13 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+//use this to put small tips, tricks, or other notes in your page!
+.aside-box {
+  border-left: 4px solid #0077cc;
+  background-color: #f0f8ff;
+  padding: 1em;
+  margin: 1em 0;
+  font-style: italic;
+  border-radius: 5px;
+}
