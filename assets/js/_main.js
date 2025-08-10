@@ -232,3 +232,9 @@ $(document).ready(function () {
       });
   }
 });
+
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll('input[type=checkbox]').forEach(function(checkbox) {
+    checkbox.disabled = false;
+  });
+});
