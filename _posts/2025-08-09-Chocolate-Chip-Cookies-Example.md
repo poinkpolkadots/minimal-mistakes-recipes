@@ -1,5 +1,6 @@
 ---
 title: "Chocolate Chip Cookies Example"
+author: Sally McKenney
 header:
     teaser: /assets/images/Chocolate-Chip-Cookies/choco_chip_cookies.jpg
 tags:
