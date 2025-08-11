@@ -58,7 +58,7 @@ The most important step is next.
 
 Watch the **video below** to see how I shape them. I also demonstrate how I use a spoon to reshape them during baking if I see they’re spreading too much.
 
-<div class="aside-box">
+<div class="aside-box" markdown="1">
 
 ## FAQs
 
