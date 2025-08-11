@@ -1,3 +1,5 @@
+// credit to gsidhu on GitHub for this code
+
 // Clickable checkboxes
 const checkboxes = document.querySelectorAll('input[type="checkbox"]');
 checkboxes.forEach(checkbox => {

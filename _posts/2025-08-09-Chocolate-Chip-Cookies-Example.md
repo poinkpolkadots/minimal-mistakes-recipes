@@ -123,3 +123,24 @@ If you’re curious about freezing cookie dough, here’s my How to Freeze Cooki
 - [ ] 1 large egg + 1 egg yolk, at room temperature
 - [ ] 2 teaspoons pure vanilla extract
 - [ ] 1 and 1/4 cups (225g) semi-sweet chocolate chips or chocolate chunks
+
+---
+
+## Instructions
+
+1. In a large bowl, whisk the flour, baking soda, cornstarch, and salt together. Set aside.
+2. In a medium bowl, whisk the melted butter, brown sugar, and granulated sugar together until no lumps remain. Whisk in the egg and egg yolk until combined, then whisk in the vanilla extract. The mixture will be thin. Pour into dry ingredients and mix together with a large spoon or spatula. The dough will be very soft, thick, and shiny. Fold in the chocolate chips. The chocolate chips may not stick to the dough because of the melted butter, but do your best to combine them.
+3. Cover the dough tightly and refrigerate for at least 2 hours or up to 3 days. I highly recommend chilling the cookie dough overnight to prevent overspreading.
+4. Preheat oven to 325°F (163°C). Line large baking sheets with parchment paper or silicone baking mats. If the dough has chilled for longer than 2 hours, let it sit at room temperature for about 15 minutes.
+5. Using a cookie scoop or Tablespoon measuring spoon, scoop the chilled cookie dough, about 3 scant Tablespoons (about 2 ounces, or 60g) of dough for XL cookies or 2 heaping Tablespoons (about 1.75 ounces, or 50g) of dough for medium-large cookies. Roll into a ball, then use your fingers to shape the cookie dough so that it’s taller rather than wide—almost like a cylinder. This helps the cookies bake up thicker. Repeat with remaining dough. Arrange the cookies 3 inches apart on the prepared baking sheets.
+6. Bake the cookies for 13–14 minutes or until the edges are very lightly browned. The centers will look very soft, but the cookies will continue to set as they cool. Cool on the baking sheet for 10 minutes before transferring to a cooling rack to cool completely. While the cookies are still warm, I like to press a few more chocolate chips into the tops—this is optional and only for looks! 
+7. Store tightly covered at room temperature for up to 1 week.
+
+## Notes
+
+1. **Make Ahead & Freezing Instructions:** You can make the cookie dough and chill it in the refrigerator for up to 3 days. Allow to come to room temperature, then continue with step 5. Baked cookies freeze well for up to 3 months. Unbaked cookie dough balls freeze well for up to 3 months. Bake frozen cookie dough balls for an extra minute, no need to thaw. Read my tips and tricks on how to freeze cookie dough.
+2. **Special Tools** (affiliate links): Glass Mixing Bowls | Whisk | Wooden Spoon or Rubber Spatula | Baking Sheets | Silicone Baking Mats or Parchment Paper | Medium Cookie Scoop | Cooling Rack
+3. **Cornstarch:** If you don’t have cornstarch, you can leave it out. The cookies are still very soft.
+4. **Egg & Egg Yolk:** Room-temperature egg + egg yolk are best. Typically, if a recipe calls for room-temperature or melted butter, it’s good practice to use room-temperature eggs as well. To bring eggs to room temperature quickly, simply place the whole eggs in a bowl of warm water for 5 minutes.
+5. **Can I add nuts or different add-ins?** Yes, absolutely. As long as the total amount of add-ins is around 1 to 1 and 1/4 cups, you can add anything including chopped nuts, M&Ms, white chocolate chips, dried cranberries, chopped peanut butter cups, etc. I love them with 3/4 cup (135g) butterscotch morsels and 1/2 cup (100g) Reese’s Pieces. You could even add 1/2 cup (80g) sprinkles to make a sprinkle chocolate chip cookie.
+6. Be sure to check out my top 5 cookie baking success tips AND these are my 10 must-have cookie baking tools.
