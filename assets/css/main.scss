@@ -28,3 +28,11 @@ search: false
   //padding: 0;
   margin: 0;
 }
+
+.author__avatar img {
+  height: 128px;
+  width: 60px;
+  max-width: 60px;
+  object-fit: contain;
+  border-radius: 50%;
+}
